@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Cupcake ipsum dolor sit amet icing chocolate powder carrot cake. Fruitcake tiramisu cheesecake cookie.
 Use the left arrow to go back!
